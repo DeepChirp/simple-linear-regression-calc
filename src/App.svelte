@@ -127,6 +127,11 @@
       </p>
       <p>
         <Katex
+          >\overline {"{"}xy{"}"} = {xy_avg.toFixed(5)}</Katex
+        >
+      </p>
+      <p>
+        <Katex
           >\overline x^2 = {(x_avg ** 2).toFixed(5)}, \overline y^2 = {(
             y_avg ** 2
           ).toFixed(5)}</Katex
