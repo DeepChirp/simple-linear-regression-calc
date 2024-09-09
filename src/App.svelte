@@ -161,7 +161,7 @@
       <h3>不确定度</h3>
       <Katex displayMode>
         {`\\begin{align*}`}
-        {`u(b) =& b\\sqrt{\\frac{1}{k-2}(\\frac{1}{r^2-1})} &=`}{ub.toFixed(
+        {`u(b) =& b\\sqrt{\\frac{1}{k-2}(\\frac{1}{r^2}-1)} &=`}{ub.toFixed(
           8
         )},\\{`u(a) =& \\sqrt{\\overline{x^2}} \\cdot u(b)&=`}{ua.toFixed(8)}.
         {`\\end{align*}`}
